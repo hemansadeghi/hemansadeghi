@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python / ai
 - 📫 How to reach me hemn.devlop@gmail.com
 
+runApp();
 
 <!---
 hemansadeghi/hemansadeghi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
