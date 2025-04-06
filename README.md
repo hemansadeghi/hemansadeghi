@@ -60,8 +60,6 @@
 
 ## 📬 Contact Options:
 
-## 📬 Contact Options:
-
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_username)
 [![Email](https://img.shields.io/badge/-EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
