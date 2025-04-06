@@ -32,7 +32,7 @@
 
 ## 📬 Contact Options:
 
-<a href="https://www.hemansadeghi@proton.me">
+<a href="hemansadeghi@proton.me">
   <img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/heman-sadeghi-0b0537341/">
