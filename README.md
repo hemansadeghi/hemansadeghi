@@ -1,166 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>GLORY Stack</title>
-  <style>
-    * {
-      box-sizing: border-box;
-      font-family: "Segoe UI", sans-serif;
-    }
+## 🚀 Tech Stack
 
-    body {
-      margin: 0;
-      padding: 2rem;
-      background: #e0e5ec;
-      color: #333;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
+### 🧠 Languages:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-    h1 {
-      font-size: 2.8rem;
-      margin-bottom: 1rem;
-    }
+### 🎨 UI/UX:
+![UI/UX](https://img.shields.io/badge/-UI%2FUX-111111?style=for-the-badge&logo=figma&logoColor=white)
 
-    .section {
-      background: #e0e5ec;
-      border-radius: 20px;
-      box-shadow: 8px 8px 16px #b8b9be, -8px -8px 16px #ffffff;
-      padding: 2rem;
-      margin: 1rem 0;
-      width: 90%;
-      max-width: 900px;
-    }
+### 🧱 Frameworks:
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-    .section h2 {
-      font-size: 2rem;
-      margin-bottom: 1rem;
-    }
+### 🗄️ Databases:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-    .badges {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1rem;
-    }
+### ⚙️ DevOps & CI/CD:
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
+![Packer](https://img.shields.io/badge/-Packer-000000?style=for-the-badge&logo=packer&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-    .badge {
-      padding: 0.8rem 1.2rem;
-      border-radius: 12px;
-      font-size: 1rem;
-      font-weight: 600;
-      color: white;
-      background: #4e4e4e;
-      box-shadow: inset 2px 2px 6px rgba(255,255,255,0.2), inset -2px -2px 6px rgba(0,0,0,0.2);
-      transition: transform 0.2s ease;
-    }
+### 📈 Monitoring:
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-    .badge:hover {
-      transform: scale(1.05);
-    }
+---
 
-    .socials {
-      display: flex;
-      gap: 1.5rem;
-      justify-content: center;
-      margin-top: 1.5rem;
-    }
+## 📬 Contact Options:
 
-    .socials a {
-      text-decoration: none;
-    }
-
-    .social-btn {
-      padding: 0.9rem 1.5rem;
-      border-radius: 14px;
-      font-weight: bold;
-      font-size: 1rem;
-      background: #e0e5ec;
-      color: #333;
-      box-shadow: 6px 6px 12px #b8b9be, -6px -6px 12px #ffffff;
-      transition: all 0.2s ease;
-    }
-
-    .social-btn:hover {
-      transform: scale(1.07);
-      background: #d2d7dd;
-    }
-
-    @media (max-width: 600px) {
-      .badge {
-        font-size: 0.9rem;
-      }
-      .social-btn {
-        padding: 0.7rem 1.2rem;
-        font-size: 0.9rem;
-      }
-    }
-  </style>
-</head>
-<body>
-  <h1>🚀 My Tech Stack</h1>
-
-  <div class="section">
-    <h2>🧠 Languages</h2>
-    <div class="badges">
-      <div class="badge" style="background:#3776AB;">Python</div>
-      <div class="badge" style="background:#0175C2;">Dart</div>
-      <div class="badge" style="background:#00ADD8;">Go</div>
-    </div>
-  </div>
-
-  <div class="section">
-    <h2>🎨 UI/UX</h2>
-    <div class="badges">
-      <div class="badge">UI/UX</div>
-    </div>
-  </div>
-
-  <div class="section">
-    <h2>🧱 Framework</h2>
-    <div class="badges">
-      <div class="badge" style="background:#02569B;">Flutter</div>
-    </div>
-  </div>
-
-  <div class="section">
-    <h2>🗄️ Databases</h2>
-    <div class="badges">
-      <div class="badge" style="background:#4479A1;">MySQL</div>
-      <div class="badge" style="background:#336791;">PostgreSQL</div>
-    </div>
-  </div>
-
-  <div class="section">
-    <h2>⚙️ DevOps & CI/CD</h2>
-    <div class="badges">
-      <div class="badge" style="background:#FCC624; color:black;">Linux</div>
-      <div class="badge" style="background:#4EAA25;">Bash</div>
-      <div class="badge" style="background:#2496ED;">Docker</div>
-      <div class="badge" style="background:#FC6D26;">GitLab CI</div>
-      <div class="badge" style="background:#2088FF;">GitHub Actions</div>
-      <div class="badge" style="background:#1563FF;">Vagrant</div>
-      <div class="badge" style="background:#000000;">Packer</div>
-      <div class="badge" style="background:#EE0000;">Ansible</div>
-    </div>
-  </div>
-
-  <div class="section">
-    <h2>📈 Monitoring</h2>
-    <div class="badges">
-      <div class="badge" style="background:#E6522C;">Prometheus</div>
-    </div>
-  </div>
-
-  <div class="section">
-    <h2>📬 Contact Me</h2>
-    <div class="socials">
-      <a href="https://t.me/your_username" target="_blank" class="social-btn">Telegram</a>
-      <a href="mailto:your@email.com" target="_blank" class="social-btn">Email</a>
-      <a href="https://linkedin.com/in/your_profile" target="_blank" class="social-btn">LinkedIn</a>
-    </div>
-  </div>
-</body>
-</html>
+<a href="https://t.me/your_username">
+  <img src="https://img.shields.io/badge/-TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/your_profile">
+  <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
