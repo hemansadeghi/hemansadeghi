@@ -1,65 +1,166 @@
-## 🛠️ Have worked in:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GLORY Stack</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      font-family: "Segoe UI", sans-serif;
+    }
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+    body {
+      margin: 0;
+      padding: 2rem;
+      background: #e0e5ec;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
 
----
+    h1 {
+      font-size: 2.8rem;
+      margin-bottom: 1rem;
+    }
 
-## 🎨 UI/UX:
+    .section {
+      background: #e0e5ec;
+      border-radius: 20px;
+      box-shadow: 8px 8px 16px #b8b9be, -8px -8px 16px #ffffff;
+      padding: 2rem;
+      margin: 1rem 0;
+      width: 90%;
+      max-width: 900px;
+    }
 
-![UI/UX](https://img.shields.io/badge/-UI%2FUX-111111?style=flat-square&logo=figma&logoColor=white)
+    .section h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
 
----
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
 
-## 📦 Frameworks:
+    .badge {
+      padding: 0.8rem 1.2rem;
+      border-radius: 12px;
+      font-size: 1rem;
+      font-weight: 600;
+      color: white;
+      background: #4e4e4e;
+      box-shadow: inset 2px 2px 6px rgba(255,255,255,0.2), inset -2px -2px 6px rgba(0,0,0,0.2);
+      transition: transform 0.2s ease;
+    }
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+    .badge:hover {
+      transform: scale(1.05);
+    }
 
----
+    .socials {
+      display: flex;
+      gap: 1.5rem;
+      justify-content: center;
+      margin-top: 1.5rem;
+    }
 
-## 🗄️ Databases:
+    .socials a {
+      text-decoration: none;
+    }
 
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+    .social-btn {
+      padding: 0.9rem 1.5rem;
+      border-radius: 14px;
+      font-weight: bold;
+      font-size: 1rem;
+      background: #e0e5ec;
+      color: #333;
+      box-shadow: 6px 6px 12px #b8b9be, -6px -6px 12px #ffffff;
+      transition: all 0.2s ease;
+    }
 
----
+    .social-btn:hover {
+      transform: scale(1.07);
+      background: #d2d7dd;
+    }
 
-## ⚙️ DevOps & CI/CD:
+    @media (max-width: 600px) {
+      .badge {
+        font-size: 0.9rem;
+      }
+      .social-btn {
+        padding: 0.7rem 1.2rem;
+        font-size: 0.9rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>🚀 My Tech Stack</h1>
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white)
-![Packer](https://img.shields.io/badge/-Packer-1B1F23?style=flat-square&logo=packer&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+  <div class="section">
+    <h2>🧠 Languages</h2>
+    <div class="badges">
+      <div class="badge" style="background:#3776AB;">Python</div>
+      <div class="badge" style="background:#0175C2;">Dart</div>
+      <div class="badge" style="background:#00ADD8;">Go</div>
+    </div>
+  </div>
 
----
+  <div class="section">
+    <h2>🎨 UI/UX</h2>
+    <div class="badges">
+      <div class="badge">UI/UX</div>
+    </div>
+  </div>
 
-## 📊 Monitoring:
+  <div class="section">
+    <h2>🧱 Framework</h2>
+    <div class="badges">
+      <div class="badge" style="background:#02569B;">Flutter</div>
+    </div>
+  </div>
 
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+  <div class="section">
+    <h2>🗄️ Databases</h2>
+    <div class="badges">
+      <div class="badge" style="background:#4479A1;">MySQL</div>
+      <div class="badge" style="background:#336791;">PostgreSQL</div>
+    </div>
+  </div>
 
----
+  <div class="section">
+    <h2>⚙️ DevOps & CI/CD</h2>
+    <div class="badges">
+      <div class="badge" style="background:#FCC624; color:black;">Linux</div>
+      <div class="badge" style="background:#4EAA25;">Bash</div>
+      <div class="badge" style="background:#2496ED;">Docker</div>
+      <div class="badge" style="background:#FC6D26;">GitLab CI</div>
+      <div class="badge" style="background:#2088FF;">GitHub Actions</div>
+      <div class="badge" style="background:#1563FF;">Vagrant</div>
+      <div class="badge" style="background:#000000;">Packer</div>
+      <div class="badge" style="background:#EE0000;">Ansible</div>
+    </div>
+  </div>
 
-## 🧰 Tools I Use:
+  <div class="section">
+    <h2>📈 Monitoring</h2>
+    <div class="badges">
+      <div class="badge" style="background:#E6522C;">Prometheus</div>
+    </div>
+  </div>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
----
-
-## 💻 Operating Systems:
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
----
-
-## 📬 Contact Options:
-
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
+  <div class="section">
+    <h2>📬 Contact Me</h2>
+    <div class="socials">
+      <a href="https://t.me/your_username" target="_blank" class="social-btn">Telegram</a>
+      <a href="mailto:your@email.com" target="_blank" class="social-btn">Email</a>
+      <a href="https://linkedin.com/in/your_profile" target="_blank" class="social-btn">LinkedIn</a>
+    </div>
+  </div>
+</body>
+</html>
