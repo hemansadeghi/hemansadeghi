@@ -32,12 +32,9 @@
 
 ## 📬 Contact Options:
 
-<a href="https://t.me/your_username">
-  <img src="https://img.shields.io/badge/-TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:your.email@gmail.com">
+<a href="https://www.hemansadeghi@proton.me">
   <img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/your_profile">
+<a href="https://www.linkedin.com/in/heman-sadeghi-0b0537341/">
   <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
