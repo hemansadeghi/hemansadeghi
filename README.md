@@ -2,6 +2,8 @@
 
 ### 🧠 Languages:
    <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
+   <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Dart-030903.svg?style=flat&logo=Dart&logoColor=yellow">
+   <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
