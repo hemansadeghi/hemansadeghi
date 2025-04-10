@@ -12,6 +12,7 @@
 
 ### 🎢 architecture:
 ![Bloc](https://img.shields.io/badge/-Bloc-0175C2?style=for-the-badge&logo=Bloc&logoColor=white)
+![cleanarchitecture](https://img.shields.io/badge/-cleanarchitecture-E6522C?style=for-the-badge&logo=cleanarchitecture&logoColor=white)
 ![getx](https://img.shields.io/badge/-getx-0175C2?style=for-the-badge&logo=getx&logoColor=green)
 ![Riverpod](https://img.shields.io/badge/-Riverpod-0175C2?style=for-the-badge&logo=Riverpod&logoColor=yellow)
 ### 🧱 Frameworks:
