@@ -12,7 +12,7 @@
 
 ### 🎢 architecture:
 ![Bloc](https://img.shields.io/badge/-Bloc-0175C2?style=for-the-badge&logo=Bloc&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-0175C2?style=for-the-badge&logo=Python&logoColor=white)
+![getx](https://img.shields.io/badge/-getx-0175C2?style=for-the-badge&logo=getx&logoColor=green)
 ![Python](https://img.shields.io/badge/-Python-0175C2?style=for-the-badge&logo=Python&logoColor=white)
 ### 🧱 Frameworks:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
