@@ -11,7 +11,7 @@
 
 ### 🧱 Frameworks:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
+![tailwind](https://img.shields.io/badge/-tailwind-2496ED?style=for-the-badge&logo=tailwind&logoColor=white)
 ### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
