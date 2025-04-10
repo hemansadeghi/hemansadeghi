@@ -9,6 +9,11 @@
 ### 🎨 UI/UX:
 ![UI/UX](https://img.shields.io/badge/-UI%2FUX-111111?style=for-the-badge&logo=figma&logoColor=white)
 
+
+### 🎢 architecture:
+![Bloc](https://img.shields.io/badge/-Bloc-0175C2?style=for-the-badge&logo=Bloc&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0175C2?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0175C2?style=for-the-badge&logo=Python&logoColor=white)
 ### 🧱 Frameworks:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![tailwind](https://img.shields.io/badge/-tailwind-2496ED?style=for-the-badge&logo=tailwind&logoColor=white)
