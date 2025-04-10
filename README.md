@@ -13,7 +13,7 @@
 ### 🎢 architecture:
 ![Bloc](https://img.shields.io/badge/-Bloc-0175C2?style=for-the-badge&logo=Bloc&logoColor=white)
 ![getx](https://img.shields.io/badge/-getx-0175C2?style=for-the-badge&logo=getx&logoColor=green)
-![provider](https://img.shields.io/badge/-provider-0175C2?style=for-the-badge&logo=provider&logoColor=yellow)
+![Riverpod](https://img.shields.io/badge/-Riverpod-0175C2?style=for-the-badge&logo=Riverpod&logoColor=yellow)
 ### 🧱 Frameworks:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![tailwind](https://img.shields.io/badge/-tailwind-2496ED?style=for-the-badge&logo=tailwind&logoColor=white)
