@@ -18,7 +18,7 @@
 
 ### 🧱 Frameworks:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![flask](https://img.shields.io/badge/-flask-02569B?style=for-the-badge&logo=flask&logoColor=white)
+![flask](https://img.shields.io/badge/-flask-FCC624?style=for-the-badge&logo=flask&logoColor=black)
 ![tailwind](https://img.shields.io/badge/-tailwind-2496ED?style=for-the-badge&logo=tailwind&logoColor=white)
 ### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
