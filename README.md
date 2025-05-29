@@ -6,16 +6,6 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🎨 UI/UX:
-![UI/UX](https://img.shields.io/badge/-UI%2FUX-111111?style=for-the-badge&logo=figma&logoColor=white)
-
-
-### 🎢 architecture:
-![Bloc](https://img.shields.io/badge/-Bloc-0175C2?style=for-the-badge&logo=flutter&logoColor=white)  
-![cleanarchitecture](https://img.shields.io/badge/-cleanarchitecture-E6522C?style=for-the-badge&logo=code&logoColor=white)  
-![getx](https://img.shields.io/badge/-getx-FCC624?style=for-the-badge&logo=getx&logoColor=black)
-![Riverpod](https://img.shields.io/badge/-Riverpod-0175C2?style=for-the-badge&logo=spring&logoColor=yellow)
-
 ### 🧱 Frameworks:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![flask](https://img.shields.io/badge/-flask-FCC624?style=for-the-badge&logo=flask&logoColor=black)
@@ -23,6 +13,15 @@
 ### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎢 architecture:
+![Bloc](https://img.shields.io/badge/-Bloc-0175C2?style=for-the-badge&logo=flutter&logoColor=white)  
+![cleanarchitecture](https://img.shields.io/badge/-cleanarchitecture-E6522C?style=for-the-badge&logo=code&logoColor=white)  
+![getx](https://img.shields.io/badge/-getx-FCC624?style=for-the-badge&logo=getx&logoColor=black)
+![Riverpod](https://img.shields.io/badge/-Riverpod-0175C2?style=for-the-badge&logo=spring&logoColor=yellow)
+
+### 🎨 UI/UX:
+![UI/UX](https://img.shields.io/badge/-UI%2FUX-111111?style=for-the-badge&logo=figma&logoColor=white)
 
 ### ⚙️ DevOps & CI/CD:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
