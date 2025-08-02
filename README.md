@@ -33,6 +33,7 @@
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Packer](https://img.shields.io/badge/-Packer-000000?style=for-the-badge&logo=packer&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![grafana](https://img.shields.io/badge/-grafana-4EAA25?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 📈 Monitoring:
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
