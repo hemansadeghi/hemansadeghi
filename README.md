@@ -6,6 +6,19 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+### ⚙️ DevOps & CI/CD:
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![git](https://img.shields.io/badge/-git-2496ED?style=for-the-badge&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
+![Packer](https://img.shields.io/badge/-Packer-000000?style=for-the-badge&logo=packer&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![grafana](https://img.shields.io/badge/-grafana-4EAA25?style=for-the-badge&logo=grafana&logoColor=white)
+
+
 ### 🧱 Frameworks:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![flask](https://img.shields.io/badge/-flask-FCC624?style=for-the-badge&logo=flask&logoColor=black)
@@ -23,17 +36,7 @@
 ### 🎨 UI/UX:
 ![UI/UX](https://img.shields.io/badge/-UI%2FUX-111111?style=for-the-badge&logo=figma&logoColor=white)
 
-### ⚙️ DevOps & CI/CD:
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![git](https://img.shields.io/badge/-git-2496ED?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
-![Packer](https://img.shields.io/badge/-Packer-000000?style=for-the-badge&logo=packer&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![grafana](https://img.shields.io/badge/-grafana-4EAA25?style=for-the-badge&logo=grafana&logoColor=white)
+)
 
 ### 📈 Monitoring:
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
