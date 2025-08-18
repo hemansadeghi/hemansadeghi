@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Heman  
-DevOps Engineer & Flutter Developer — عاشق Automation، CI/CD و طراحی سیستم‌های **اسکیل‌پذیر**.  
+DevOps Engineer & Flutter Developer 
 
 ---
 
