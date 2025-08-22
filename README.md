@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Heman  
 DevOps Engineer 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=4,9,3&text=heman%20sadeghi&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=5,9,0&text=heman%20sadeghi&textBg=false" />
 
 ---
 
