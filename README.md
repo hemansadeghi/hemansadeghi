@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Heman  
-DevOps Engineer & Flutter Developer 
+DevOps Engineer 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,6,9&text=heman%20sadeghi&textBg=false" />
 
-<div align="center" width="100%">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=heman%20sadeghi&textBg=false&" />
-</div>
 ---
 
 ## 🧠 Languages  
