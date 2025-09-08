@@ -32,7 +32,8 @@ DevOps Engineer
 ---
 
 ## 📈 Monitoring  
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-E6522C?style=for-the-badge&logo=Grafana&logoColor=white)  
+
 
 ---
 
