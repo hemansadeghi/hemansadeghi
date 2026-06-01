@@ -26,11 +26,6 @@ DevOps Engineer
 
 ---
 
-## 🎨 UI/UX  
-![UI/UX](https://img.shields.io/badge/-UI%2FUX-111111?style=for-the-badge&logo=figma&logoColor=white)  
-
----
-
 ## 📈 Monitoring  
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-1563FF?style=for-the-badge&logo=Grafana&logoColor=white)  
 
