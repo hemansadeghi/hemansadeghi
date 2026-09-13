@@ -14,10 +14,6 @@
 
 <div align="center">
 
-## `TERMINAL // PROFILE`
-
-🔴 🟡 🟢
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1650&pause=700&color=7CFFB2&background=050505&center=true&vCenter=true&width=820&height=300&lines=%24+whoami;heman+%3A%3A+DevOps+Engineer;%24+cat+%2Fetc%2Fheman%2Fprofile;ROLE%3DDevOps+Engineer;FOCUS%3DInfrastructure+%7C+Automation+%7C+CI%2FCD;RUNTIME%3DLinux+%2B+Docker+%2B+Kubernetes;IAC%3DTerraform+%2B+Ansible;PIPELINE%3DGitHub+Actions+%2B+GitLab+CI+%2B+Jenkins;OBSERVABILITY%3DPrometheus+%2B+Grafana;BACKEND%3DPython+%2B+Go+%2B+Flask;DATABASE%3DPostgreSQL+%2B+MySQL;SECURITY%3DSecrets+%2B+Access+Control;%24+echo+%24STATUS;AUTOMATION_ENABLED"/>
 
 </div>
