@@ -49,21 +49,6 @@
 
 <br>
 
-<div align="center">
-
-## 🛰️ `GITHUB // ACTIVITY`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemansadeghi&bg_color=030303&color=7CFFB2&line=9B5CFF&point=FF355E&area_color=101B45&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-<br>
-
-<div align="center">
 
 ## ◈ `CONNECT`
 
