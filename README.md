@@ -1,59 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=HEMAN%20SADEGHI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:7F00FF,50:00C6FF,100:00F5A0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=HEMAN%20SADEGHI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:050505,25:18080B,50:2B0A3D,75:101A3D,100:063B2C"/>
 
-### `DEVOPS ENGINEER`
-
-**Automate everything. Ship faster. Break less.**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=650&lines=Infrastructure+%7C+CI%2FCD+%7C+Cloud+Native;Docker+%7C+Kubernetes+%7C+Terraform;Linux+%7C+Automation+%7C+Observability" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=700&color=7CFFB2&center=true&vCenter=true&width=700&lines=DEVOPS+ENGINEER;AUTOMATION+%7C+INFRASTRUCTURE+%7C+CI%2FCD;BUILD+SYSTEMS.+NOT+JUST+APPS.;LINUX+%E2%80%A2+DOCKER+%E2%80%A2+KUBERNETES+%E2%80%A2+TERRAFORM"/>
 
 <br>
 
-[![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=00F5A0)](https://python.org)
-[![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=00C6FF)](https://docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge\&logo=kubernetes\&logoColor=7F00FF)](https://kubernetes.io)
-[![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge\&logo=terraform\&logoColor=9B5CFF)](https://terraform.io)
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,python,go,prometheus,grafana,gitlab,githubactions&theme=dark"/>
 
-<br>
-
-[![GitLab CI](https://img.shields.io/badge/GitLab_CI-111827?style=flat-square\&logo=gitlab\&logoColor=FF4B91)](https://gitlab.com)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square\&logo=githubactions\&logoColor=00C6FF)](https://github.com)
-[![Ansible](https://img.shields.io/badge/Ansible-111827?style=flat-square\&logo=ansible\&logoColor=FF4B91)](https://ansible.com)
-[![Grafana](https://img.shields.io/badge/Grafana-111827?style=flat-square\&logo=grafana\&logoColor=00F5A0)](https://grafana.com)
-
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ```text
-╭────────────────────────────────────────────╮
-│                                            │
-│   BUILD  →  AUTOMATE  →  DEPLOY  →  SCALE │
-│                                            │
-╰────────────────────────────────────────────╯
+┌───────────────────────────────────────────────┐
+│  root@heman ~ $ whoami                        │
+│                                               │
+│  DevOps Engineer                              │
+│  ├─ Infrastructure                            │
+│  ├─ Automation                                │
+│  ├─ CI/CD                                     │
+│  └─ Observability                             │
+│                                               │
+│  $ echo "automate everything"                 │
+│  automate everything                          │
+└───────────────────────────────────────────────┘
 ```
 
-</div>
+### `SYSTEM STATUS`
 
-### ⚡ Stack
+![Linux](https://img.shields.io/badge/LINUX-080808?style=flat-square\&logo=linux\&logoColor=7CFFB2)
+![Docker](https://img.shields.io/badge/DOCKER-080808?style=flat-square\&logo=docker\&logoColor=4D9EFF)
+![Kubernetes](https://img.shields.io/badge/K8S-080808?style=flat-square\&logo=kubernetes\&logoColor=9B5CFF)
+![Terraform](https://img.shields.io/badge/TERRAFORM-080808?style=flat-square\&logo=terraform\&logoColor=A970FF)
+![Python](https://img.shields.io/badge/PYTHON-080808?style=flat-square\&logo=python\&logoColor=FF355E)
+![Go](https://img.shields.io/badge/GO-080808?style=flat-square\&logo=go\&logoColor=00AEEF)
 
-`Linux` `Docker` `Kubernetes` `Terraform` `Ansible` `GitLab CI` `GitHub Actions` `Jenkins` `Prometheus` `Grafana` `Python` `Go`
+<br>
 
-### 📡 Contact
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=FF355E&icon_color=7CFFB2&text_color=9AA4B2&ring_color=6D28D9"/>
 
-<div align="center">
+<br>
 
 <a href="mailto:hemansadeghi@proton.me">
-<img src="https://img.shields.io/badge/hemansadeghi%40proton.me-111827?style=for-the-badge&logo=protonmail&logoColor=00F5A0"/>
+<img src="https://img.shields.io/badge/CONTACT-080808?style=for-the-badge&logo=protonmail&logoColor=7CFFB2&labelColor=12090D&color=080808"/>
 </a>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7F00FF,50:00C6FF,100:00F5A0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:063B2C,25:101A3D,50:2B0A3D,75:18080B,100:050505"/>
 
 </div>
